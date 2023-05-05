@@ -2,7 +2,7 @@
 
 # Plastic_transport_saigon
 
-Code supporting the publication "Plastic does not simply flow into the sea: Transport dynamics affected by tides and floating plants"
+Jupyter notebook file for the pre-processing of trajectory data, supporting the publication "Plastic does not simply flow into the sea: Transport dynamics affected by tides and floating plants"
 
 Processes raw trajectory csv files by detecting periods the trajectory was stopped, filling in gaps, and removing missing data
 
